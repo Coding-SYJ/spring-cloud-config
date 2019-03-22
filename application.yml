@@ -6,10 +6,10 @@
 spring:
    profiles: dev
    application:
-       name: dev
+     name: dev
 
 ---
 spring:
    profiles: test
    application:
-       name: test
+     name: test
